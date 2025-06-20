@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="480" alt="code animation gif" />
+</div>
 
-<!--
-**cordencodes/cordencodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I’m @yourusername
 
-Here are some ideas to get you started:
+🧠 SWE @Unqork  
+💻 Working with JavaScript & TypeScript  
+🔍 Obsessed with systems, scale, and simplicity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Stack Focus
+
+- JavaScript / TypeScript  
+- Node.js  
+- React / Frontend Architectures  
+- Automation, CLI tools, and APIs
+
+---
+
+## ⚡ Current Interests
+
+- Clean code patterns & tooling  
+- DevX, infrastructure, and developer productivity  
+- Exploring how systems evolve over time
+
+<!---
+yourusername/yourusername is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
